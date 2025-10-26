@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81e7bc57-3743-4552-ae17-a18b88bf1078" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Pandas_P.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pandas_P.iml" afterDir="false" />
+    <list default="true" id="81e7bc57-3743-4552-ae17-a18b88bf1078" name="Changes" comment="code1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_pandas.py" afterDir="false" />
     </list>
@@ -24,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="34ZjeyHLP3ZuuoTGKycPq3MOZbG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,7 +37,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Delaware/PycharmProjects/Pandas_P"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -56,6 +56,19 @@
       <option name="presentableId" value="Default" />
       <updated>1761428086884</updated>
     </task>
+    <task id="LOCAL-00001" summary="code1">
+      <option name="closed" value="true" />
+      <created>1761429396499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761429396499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code1" />
+    <option name="LAST_COMMIT_MESSAGE" value="code1" />
   </component>
 </project>
